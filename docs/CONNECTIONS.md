@@ -35,4 +35,6 @@ block character in the upper-right corner of the LCD provides the same status.
 The diagram is a logical wiring reference. Always verify the pin labels on the
 specific modules being used.
 
+## Fritzing
+
 ![Wiring Fritzing](images/RDA5807_bb.png)
