@@ -30,7 +30,7 @@
 */
 
 #include <LiquidCrystal_I2C.h>
-#include <Rotary.h>
+#include "Rotary.h"
 #include <RDA5807M.h>
 
 #include "Bigfonte.h"
