@@ -38,7 +38,7 @@
 // Hardware configuration.
 constexpr uint8_t ENCODER_PIN_A = 2;
 constexpr uint8_t ENCODER_PIN_B = 3;
-constexpr uint8_t STEREO_LED_PIN = 13;
+constexpr uint8_t STEREO_LED_PIN = A1;
 constexpr uint8_t LCD_ADDRESS = 0x3F;
 constexpr uint8_t LCD_COLUMNS = 16;
 constexpr uint8_t LCD_ROWS = 2;
