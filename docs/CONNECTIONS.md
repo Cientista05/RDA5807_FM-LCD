@@ -14,7 +14,7 @@ it.
 
 ## Stereo indicator
 
-The built-in LED on D13 follows the stereo state reported by the RDA5807. A
+The LED on A1 follows the stereo state reported by the RDA5807. A
 block character in the upper-right corner of the LCD provides the same status.
 
 ## Power and logic levels
